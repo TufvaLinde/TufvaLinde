@@ -2,7 +2,7 @@
 <h3 align="center"><samp>Hi there 👋 I'm Tufva Linde.</samp></h3>
 <p align="center"><br>
   <samp>
-    Engineering Mathematics student @ KTH Royal Institute of Technology
+    Engineering Mathematics student @ KTH Royal Institute of Technology<br>
   </samp>
   <samp>
     📍 Stockholm, Sweden<br>
