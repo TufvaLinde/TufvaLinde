@@ -1,8 +1,4 @@
 
-<center># Hi there 👋 I'm Tufva Linde.</center>
-<center>### Engineering Mathematics student @ KTH Royal Institute of Technology </center>
-<center>### 📍Stockholm, Sweden </center>
-
 <h3 align="center"><samp>Hi there 👋 I'm Tufva Linde.</samp></h3>
 <p align="center"><br>
   <samp>
