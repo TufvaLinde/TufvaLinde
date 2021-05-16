@@ -1,5 +1,7 @@
-### Hi there 👋
 
+<center># Hi there 👋 I'm Tufva Linde.</center>
+<center>### Engineering Mathematics student @ KTH Royal Institute of Technology </center>
+<center>### 📍Stockholm, Sweden </center>
 <!--
 **TufvaLinde/TufvaLinde** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
