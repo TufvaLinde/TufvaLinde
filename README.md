@@ -3,6 +3,8 @@
 <p align="center"><br>
   <samp>
     Engineering Mathematics student @ KTH Royal Institute of Technology
+  </samp>
+  <samp>
     📍 Stockholm, Sweden<br>
   </samp>
 </p>
