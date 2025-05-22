@@ -1,8 +1,8 @@
 
-<h3 align="center"><samp>Oh, hello there! 👋 I'm Tufva Linde.</samp></h3>
+<h3 align="center"><samp>hi! i'm tufva linde.</samp></h3>
 <p align="center"><br>
   <samp>
-    Engineering Mathematics student @ KTH Royal Institute of Technology<br>
+    engineering mathematics student @ KTH Royal Institute of Technology<br>
   </samp>
   <samp>
     📍 Stockholm, Sweden<br>
